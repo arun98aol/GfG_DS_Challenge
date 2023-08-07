@@ -24,7 +24,7 @@ In this part of the project, I delved into Swiggy's restaurant data to uncover v
 
 The analysis is performed using Python programming and data manipulation libraries, showcasing my skills in data preprocessing, visualization, and analytical thinking.
 
-[Link to Swiggy Restaurants Analysis](https://github.com/arun98aol/GfG_DS_Challenge/blob/main/code/GfG_YT_Analysis.ipynb)
+[Link to Swiggy Analysis Notebook](https://github.com/arun98aol/GfG_DS_Challenge/blob/main/code/GfG_YT_Analysis.ipynb)
 
 ### GeeksforGeeks YouTube Channel Analysis
 
@@ -37,7 +37,7 @@ For the GeeksforGeeks YouTube Channel Analysis, I scraped data from the Geeksfor
 
 The scraping and analysis were done using Python, illustrating my web scraping abilities and proficiency in data manipulation and visual analytics.
 
-[Link to GeeksforGeeks YouTube Channel Analysis](https://github.com/arun98aol/GfG_DS_Challenge/blob/main/code/Swiggy%20Analysis.ipynb)
+[Link to GfG YouTube Analysis Notebook](https://github.com/arun98aol/GfG_DS_Challenge/blob/main/code/Swiggy%20Analysis.ipynb)
 
 ## How to Use This Repository
 
@@ -50,6 +50,6 @@ If you're interested in exploring my analysis, you can follow these steps:
 
 Feel free to reach out if you have any questions or suggestions about this project.
 
-[LinkedIn Profile](https://www.linkedin.com/in/arunganpa24/)
-[Email](arun98.aol@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/arunganpa24/)<br>
+[Email](arun-aganapthy@uiowa.edu)
 
