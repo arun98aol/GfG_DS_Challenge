@@ -44,8 +44,8 @@ The scraping and analysis were done using Python, illustrating my web scraping a
 If you're interested in exploring my analysis, you can follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the relevant analysis folders (`Swiggy-Restaurants-Analysis` and `GeeksforGeeks-YouTube-Analysis`).
-3. Inside each folder, you'll find Jupyter Notebook files containing the code and explanations for the respective analyses.
+2. Navigate to the relevant analysis folders (`code` and `data`).
+3. Inside these folders, you will find the required data files and notebook files containing the code and explanations for the respective analyses.
 4. Open the Jupyter Notebook in a suitable environment to view the analysis.
 
 Feel free to reach out if you have any questions or suggestions about this project.
