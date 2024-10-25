@@ -1,8 +1,6 @@
 # GeeksforGeeks Data Science Challenge
 
-Welcome to my GeeksforGeeks Data Science Challenge project repository. In this project, I've taken on the role of a data scientist to analyze and derive insights from two datasets: Swiggy Restaurants Data and GeeksforGeeks YouTube Channel Data. This challenge was part of the GeeksforGeeks hiring process for a Technical Content Engineer role.
-
-<h4>Source: https://practice.geeksforgeeks.org/hackathon/geeksforgeeks-hiring-data-science </h4>
+In this project, I've taken on the role of a data scientist to analyze and derive insights from two datasets: Swiggy Restaurants Data and GeeksforGeeks YouTube Channel Data.
 
 To view the analysis and results:
 
